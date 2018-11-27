@@ -6,17 +6,31 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I'm a research student in statistics at The University of Western Australia. My
+current projects are focusing on shape-constrained regression. Previously, I was
+an engineering student but realised that statistics is more interesting!
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm originally from Malaysia where I lived there until I started my university
+in 2013. I'm a Chinese Malaysian and speak Mandarin as well! My surname
+"Ng" is pronounced as *ung* without the vowel sound. It's the Hokkien (a
+Chinese dialect) pronouncation of 黄, which stands for *yellow* in English.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm interested in statistics and machine learning, even though the mathematics
+behind them are almost identical. To me, they only differ by their philosophy:
+statistics infers, machine learning predicts.
 
-## Publications
+Here is a list of my research interests (and it's growing):
+* Bayesian statistics
+* Nonparametric models
+* Markov chain Monte Carlo methods
+* Optimisation
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
+## Projects
+
+I'm involved in two projects throughout my honours and master degree:
+1. F.Bar, J.Doe: Effects of having a placeholder of a 
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
 ## Typography

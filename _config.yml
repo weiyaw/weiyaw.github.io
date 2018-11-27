@@ -1,6 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Kenyon Ng
+url: "kenyon.xyz"
 
 markdown: kramdown
 
@@ -15,9 +14,12 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ - name: "Papers"
+   link: "papers"
+ - name: "Talks"
+   link: "talks"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+
