@@ -14,12 +14,12 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Papers"
-   link: "papers"
- - name: "Talks"
-   link: "talks"
- - name: "Resume"
-   link: "resume.pdf"
+ # - name: "Papers"
+ #   link: "papers"
+ # - name: "Talks"
+ #   link: "talks"
+ # - name: "Resume"
+ #   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
 

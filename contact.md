@@ -3,24 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+## Email
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
+[kenyon.ng (at) research.uwa.edu.au](mailto:kenyon.ng@research.uwa.edu.au)
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+Department of Mathematics and Statistics (M019)  
+35 Stirling Highway  
+Crawley WA 6009  
+Australia
 
 ---
 
-## Social
+<!-- ## Social -->
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+<!-- 1. [Facebook](#) -->
+<!-- 2. [Twitter](#) -->
+<!-- 3. [Google+](#) -->
