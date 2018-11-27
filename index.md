@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.png">
 
 I'm a research student in statistics at The University of Western Australia. My
 current projects are focusing on shape-constrained regression. Previously, I was
@@ -12,7 +12,7 @@ an engineering student but realised that statistics is more interesting!
 
 I'm originally from Malaysia where I lived there until I started my university
 in 2013. I speak Mandarin as well! My surname "Ng" is pronounced as *ung*
-without the vowel sound. It's the Hokkien (a Chinese dialect) pronouncation of
+without the vowel sound. It's the Hokkien (a Chinese dialect) pronunciation of
 黄, which stands for *yellow* in English.
 
 ## Research Interest
