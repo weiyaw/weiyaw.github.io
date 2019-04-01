@@ -17,15 +17,22 @@ without the vowel sound. It's the Hokkien (a Chinese dialect) pronunciation of
 
 ## Research Interest
 
-I'm interested in statistics and machine learning, even though the mathematics
-behind them are almost identical. To me, they only differ by their philosophy:
-statistics infers, machine learning predicts.
+My area of interests is statistics and machine learning. I personally find no
+difference between these two; they only differ by their philosophy: statistics
+infers, machine learning predicts.
 
-Here is a list of my research interests (and it's growing):
+Here is a list of my (more specific) research interests (and it's growing):
 * Bayesian statistics;
 * Nonparametric models;
 * Markov chain Monte Carlo methods;
 * Optimisation.
+
+## Research Papers
+
+
+Ng, K., Turlach, B. A. and Murray, K. (2019). A flexible sequential Monte Carlo
+algorithm for parametric constrained regression, *Computational Statistics &
+Data Analysis*. [DOI](https://doi.org/10.1016/j.csda.2019.03.011), [arXiv](https://arxiv.org/abs/1810.01072)
 
 ## Projects
 
