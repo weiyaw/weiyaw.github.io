@@ -17,31 +17,17 @@ without the vowel sound. It's the Hokkien (a Chinese dialect) pronunciation of
 
 ## Research Interest
 
-My area of interests is statistics and machine learning. I personally find no
-difference between these two; they only differ by their philosophy: statistics
-infers, machine learning predicts.
+My primary research areas lie in statistics and (statistical) machine
+learning. I think they are almost identical but only differ philosophically:
+statistics infers, machine learning predicts.
 
-Here is a list of my (more specific) research interests (and it's growing):
+Here is a list of my more specific research interests (and it's growing):
 * Bayesian statistics;
 * Nonparametric models;
 * Markov chain Monte Carlo methods;
-* Optimisation.
+* Optimisation;
+* Neural network.
 
-## Research Papers
-
-
-Ng, K., Turlach, B. A. and Murray, K. (2019). A flexible sequential Monte Carlo
-algorithm for parametric constrained regression, *Computational Statistics &
-Data Analysis*. [DOI](https://doi.org/10.1016/j.csda.2019.03.011), [arXiv](https://arxiv.org/abs/1810.01072)
-
-## Projects
-
-I'm currently working
-with [Berwin A. Turlach](http://www.maths.uwa.edu.au/~berwin)
-and [Kevin Murray](https://www.uwa.edu.au/Profile/Kevin-Murray) on two projects:
-
-1. Flexible optimisation routines for shape-constrained regression;
-2. Longitudinal modelling with shape-constrained penalised splines.
 
 <!-- ## Typography -->
 
