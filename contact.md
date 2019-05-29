@@ -18,6 +18,6 @@ Crawley WA 6009
 
 ## Social
 
-1. [Github](https://github.com/weiyaw)
-2. [Linkedin](https://www.linkedin.com/in/kenyon-ng)
+1. [GitHub](https://github.com/weiyaw)
+2. [LinkedIn](https://www.linkedin.com/in/kenyon-ng)
 <!-- 3. [Google+](#) -->

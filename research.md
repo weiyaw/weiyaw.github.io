@@ -4,22 +4,18 @@ layout: default
 
 ## Papers
 
-Ng, K., Turlach, B. A. and Murray, K. (2019). A flexible sequential Monte Carlo
+1. Ng, K., Turlach, B. A. and Murray, K. (2019). A flexible sequential Monte Carlo
 algorithm for parametric constrained regression, *Computational Statistics &
 Data Analysis*. [DOI](https://doi.org/10.1016/j.csda.2019.03.011), [arXiv](https://arxiv.org/abs/1810.01072)
 
-## Presentations
+## Conferences and Presentations
 
-"A flexible sequential Monte Carlo algorithm for shape-constrained regression",
-*BioInfoSummer 2018, Australian Mathematical Science Institute, Perth, Dec
-2018.*
+1. "A flexible sequential Monte Carlo algorithm for shape-constrained regression", at
+* BioInfoSummer 2018, Australian Mathematical Science Institute, Perth, Dec 2018;
+* Faculty Research Conference, The University of Western Australia, Perth, Oct 2018;
+* Royal Statistical Society 2018, Cardiff, Sep 2018.
+* May Meeting, Statistical Society of Australia (WA Branch), Perth, May 2018.
 
-"A flexible sequential Monte Carlo algorithm for shape-constrained regression",
-*Faculty Research Conference, The University of Western Australia, Perth, Oct
-2018.*
-
-"A flexible sequential Monte Carlo algorithm for shape-constrained regression",
-*Royal Statistical Society 2018, Cardiff, Sep 2018.*
 
 
 ## Projects
