@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contact - Kenyon Ng
 is_contact: true
 ---
 
