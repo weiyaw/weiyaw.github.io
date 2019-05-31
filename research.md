@@ -10,9 +10,11 @@ Data Analysis*. [DOI](https://doi.org/10.1016/j.csda.2019.03.011), [arXiv](https
 
 ## Conferences and Presentations
 
-1. "A flexible sequential Monte Carlo algorithm for shape-constrained regression", at
+1. "A flexible sequential Monte Carlo algorithm for shape-constrained
+   regression" ([poster](ems-poster.pdf), [talk](rss-talk.pdf)), at
 * BioInfoSummer 2018, Australian Mathematical Science Institute, Perth, Dec 2018;
-* Faculty Research Conference, The University of Western Australia, Perth, Oct 2018;
+* Faculty Research Conference, The University of Western Australia, Perth, Oct
+  2018;
 * Royal Statistical Society 2018, Cardiff, Sep 2018.
 * May Meeting, Statistical Society of Australia (WA Branch), Perth, May 2018.
 
