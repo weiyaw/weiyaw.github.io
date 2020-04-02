@@ -7,12 +7,13 @@ title: Kenyon Ng
 
 <img class="profile-picture" src="profile.png">
 
-I'm a research student in statistics at The University of Western Australia. My
-current projects are focusing on shape-constrained regression. Previously, I was
-an engineering student but realised that statistics is more interesting!
+I'm currently working as a biometrician at the Department of Primary Industries
+and Regional Development, Western Australia. I obtained my MPhil in statistics
+from The University of Western Australia under the supervision of Berwin Turlach
+and Kevin Murray.
 
-I'm originally from Malaysia where I lived there until I started my university
-in 2013. I speak Mandarin as well! My surname "Ng" is pronounced as *ung*
+I grew up in Malaysia and moved to Australia in 2013 when I started
+university. I speak Mandarin as well! My surname "Ng" is pronounced as *ung*
 without the vowel sound. It's the Hokkien (a Chinese dialect) pronunciation of
 黄, which stands for *yellow* in English.
 
@@ -26,8 +27,7 @@ Here is a list of my more specific research interests (and it's growing):
 * Bayesian statistics;
 * Nonparametric models;
 * Markov chain Monte Carlo methods;
-* Optimisation;
-* Neural network.
+* Optimisation.
 
 
 <!-- ## Typography -->
