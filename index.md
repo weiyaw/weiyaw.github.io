@@ -1,50 +1,47 @@
 ## About Me
 
-I am a PhD student at the University of Melbourne working primarily with [Susan
-Wei](https://www.suswei.com/). My interests lie in developing principled
-approaches for training probabilistic models and understanding the mechanisms
-behind the success of deep learning. I come from a statistical background,
-having completed my undergraduate and MPhil studies at the University of Western
-Australia.
+I am a PhD student at the University of Melbourne, working primarily with [Susan
+Wei](https://www.suswei.com/). My primary interests lie in developing methods to
+train probabilistic or Bayesian models, and studying neural networks through the
+lens of Bayesian statistics. I am a statistician by training, having completed
+my undergraduate and MPhil studies at the University of Western Australia.
 
-
-Prior to my PhD, I held a data scientist position (which I still maintain
-part-time) at the Department of Primary Industries and Regional Development,
-Western Australia. There, I participated in several interesting projects,
-including the prediction of [cereal flowering dates](https://fp.dpird.app/).
+Prior to my PhD, I held a statistician/data scientist position (which I still
+maintain part-time) at the Department of Primary Industries and Regional
+Development in Western Australia.
 
 
 ## Research Interest
 
 ### Singular learning theory (SLT)
 SLT combines Bayesian statistics and algebraic geometry to study the properties
-of singular models (roughly speaking, unidentifiable models such as neural
-networks), see
+of singular models, such as neural networks and mixture models; see
 [here](https://www.lesswrong.com/posts/xRWsfGfvDAjRWXcnG/dslt-0-distilling-singular-learning-theory)
 and
 [here](https://sites.google.com/view/sumiowatanabe/home/singular-learning-theory)
-for a better introduction. Unfortunately, my lack of knowledge in algebraic
-geometry prevents me from contributing to its theoretical development. Rather, I am
-looking for useful tools in SLT and try to incorporate them into training
-workflow for modern deep learning. This turns out to be quite challenging too,
-in particular when dealing with modern networks that are operating in the
-interpolating regime as most of the key results in SLT assumes the data size
-to be much greater than the model size. Modifications are required.
+for an introduction. Unfortunately, my lack of knowledge in algebraic geometry
+prevents me from contributing to its theoretical development. Instead, I focus
+on seeking useful tools in SLT and incorporating them into the training workflow
+for modern deep learning. This endeavor proves to be quite challenging too,
+especially when dealing with modern networks that are operating in the
+interpolating regime (number of parameters > data size). This is because most of
+the key results in SLT only work in the asymptotic regime (data size >> number
+of parameters).
 
 
-### Bayesian inference algorithms
-Including, but not limited to, Hamiltonian Monte Carlo, Stochastic-Gradient
-Markov Chain Monte Carlo and variational Bayes. Bayesian neural networks are
-theoretical appealing, but practically impossible (or wasteful) to scale to
-large and deep networks. My dream is to make this a reality.
+### Computing Bayesian posteriors
+I am always searching for tools that can reliably compute/approximate
+posteriors, particularly for multimodal or very high-dimensional distributions.
+Lately, I have been studying Langevin-based Markov Chain Monte Carlo and
+variational Bayes methods.
 
 
 ## Education
-* Doctor of Philosophy in Statistics from University of Melbourne (still in progress)
-* Master of Philosophy in Statistics from Univerisity of Western Australia, with [Berwin
+* PhD in Statistics from University of Melbourne (2022-)
+* MPhil in Statistics from Univerisity of Western Australia, with [Berwin
 Turlach](https://staffhome.ecm.uwa.edu.au/~00043886/) and [Kevin
-Murray](https://research-repository.uwa.edu.au/en/persons/kevin-murray)
-* Bachelor of Science (Honours) in Engineering & Mathematics from Univerisity of Western Australia
+Murray](https://research-repository.uwa.edu.au/en/persons/kevin-murray) (2017-2019)
+* BSc (Honours) in Engineering & Mathematics from Univerisity of Western Australia (2013-2017)
 
 ## Contacts
 
@@ -58,4 +55,7 @@ Hokkien (a Chinese dialect) pronunciation of 黄, which stands for *yellow* in
 English.
 * Simple webpage is [good](https://motherfuckingwebsite.com).
 * A [photo](./profile.png) of myself when I was 21.
-* Last updated on 24/12/2023
+* I developed [a tool to predict cereal flowering dates](https://fp.dpird.app/)
+  as part of my role at DPIRD.
+* Last updated on 08/02/2024
+
