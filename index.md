@@ -4,7 +4,9 @@ I am a PhD student at the University of Melbourne, working primarily with [Susan
 Wei](https://www.suswei.com/). My primary interests lie in developing methods to
 train probabilistic or Bayesian models, and studying neural networks through the
 lens of Bayesian statistics. I am a statistician by training, having completed
-my undergraduate and MPhil studies at the University of Western Australia.
+my undergraduate and MPhil studies at the University of Western Australia with
+[Berwin Turlach](https://staffhome.ecm.uwa.edu.au/~00043886/) and [Kevin
+Murray](https://research-repository.uwa.edu.au/en/persons/kevin-murray).
 
 Prior to my PhD, I held a statistician/data scientist position (which I still
 maintain part-time) at the Department of Primary Industries and Regional
@@ -37,15 +39,17 @@ variational Bayes methods.
 
 
 ## Education
-* PhD in Statistics from University of Melbourne (2022-)
-* MPhil in Statistics from Univerisity of Western Australia, with [Berwin
-Turlach](https://staffhome.ecm.uwa.edu.au/~00043886/) and [Kevin
-Murray](https://research-repository.uwa.edu.au/en/persons/kevin-murray) (2017-2019)
-* BSc (Honours) in Engineering & Mathematics from Univerisity of Western Australia (2013-2017)
+* PhD in Statistics from the University of Melbourne (2022-)
+* MPhil in Statistics from the University of Western Australia (2017-2019)
+    * Awarded Dean's List for top 5% thesis.
+* BSc (Honours) in Engineering & Mathematics from the University of Western
+  Australia (2013-2017)
+
+
 
 ## Contacts
 
-For DPIRD matter, please reach out at kenyon.ng@dpird.wa.gov.au.
+Please reach out at kenyon.ng at dpird.wa.gov.au (for DPIRD matter) or kenyon.ng at student.unimelb.edu.au
 
 You can also find me at [GitHub](https://github.com/weiyaw) and [LinkedIn](https://www.linkedin.com/in/kenyon-ng).
 
