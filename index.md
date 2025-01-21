@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## About Me  
-
 I am a PhD student in the Department of Econometrics and Business Statistics at
 Monash University. Despite the department's name, my research is largely
 unrelated to "business and economics." I focus instead on fundamental aspects
@@ -73,7 +71,7 @@ Bayes approaches, and expectation-propagation techniques.
 
 - **PhD in Statistics** (2024–)  
   Monash University  
-  *(Transferred from the University of Melbourne, 2022–2024, with Susan)*  
+  *Transferred from the University of Melbourne, 2022–2024, with Susan*  
 
 - **MPhil in Statistics** (2017–2019)  
   The University of Western Australia  
