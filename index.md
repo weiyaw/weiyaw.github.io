@@ -22,7 +22,7 @@ tasks.
 
 I am a statistician by training, having completed my undergraduate and MPhil
 studies at the University of Western Australia under the supervision of [Berwin
-Turlach](https://staffhome.ecm.uwa.edu.au/~00043886/) and [Kevin
+Turlach](https://research-repository.uwa.edu.au/en/persons/berwin-turlach) and [Kevin
 Murray](https://research-repository.uwa.edu.au/en/persons/kevin-murray). Before
 starting my PhD, I worked as a statistician and data scientist at the Department
 of Primary Industries and Regional Development in Western Australia—a role I
